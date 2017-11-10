@@ -2,7 +2,7 @@
 <b>INFORMACIÓN DEL KERNEL:</b>
 
 	NOMBRE	: <b><#selectbg_g>MoRoStock-Nougat Kernel</#></b>	
-	VERSIÓN	: <b><#selectbg_g>v0.1</#></b>
+	VERSIÓN	: <b><#selectbg_g>v1.0</#></b>
 	FECHA	: <b><#selectbg_g>10/11/2017</#></b>
 	AUTOR	: <b><#selectbg_g>MoroGoku</#></b>
 
@@ -11,6 +11,11 @@
 
 <b>CHANGELOG:</b>
 
-<u><b><#selectbg_g>MoRoStock-N v0.1</#></b></u>
+<u><b><#selectbg_g>MoRoStock-N v1.0</#></b></u>
+<*>Sources G955FXXU1AQJ1</*>
+<*>Ramdisk G955FXXU1AQJ5</*>
+<*>Seguridad desactivada</*>
+<*>Selinux Permissivo</*>
+<*>AIK Kitchen 2.9</*>
 <*></*>
 

@@ -32,7 +32,7 @@ DEFCONFIG=moro_defconfig
 DEFCONFIG_S8PLUS=moro-dream2_defconfig
 DEFCONFIG_S8=moro-dream_defconfig
 
-export K_VERSION="v0.1"
+export K_VERSION="v1.0"
 export REVISION="RC"
 export KBUILD_BUILD_VERSION="1"
 S8DEVICE="S8"
